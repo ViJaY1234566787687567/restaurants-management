@@ -1,0 +1,27 @@
+body
+{background-color:#07e8f0;
+font-family:"Zilla Slab" , serif;
+font-weight: 300;
+font-style:normal;
+}
+
+.footer
+{
+height:40px;
+width:100%;
+background-color:white;
+position:fixed;
+bottom:0;
+text-align:center;
+
+
+}
+
+.form-control
+{width=40%;
+}
+
+.table
+{border-color:red;
+border-width:3px;
+}
